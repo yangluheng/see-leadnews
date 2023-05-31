@@ -157,7 +157,8 @@ public class ImageScan {
     public static void main(String[] args_) throws Exception {
         List<String> args = Arrays.asList(args_);
         // 工程代码泄露可能会导致AccessKey泄露，并威胁账号下所有资源的安全性。以下代码示例仅供参考，建议使用更安全的 STS 方式，更多鉴权访问方式请参见：https://help.aliyun.com/document_detail/378657.html
-        Client client = ImageScan.createClient("LTAI5t8vuaLfZRWcWryDobZB", "GGIisNar7qAoQaO0Y1KgLnFOIKm1tq");
+//        Client client = ImageScan.createClient("LTAI5t8vuaLfZRWcWryDobZB", "GGIisNar7qAoQaO0Y1KgLnFOIKm1tq");
+        Client client = ImageScan.createClient("", "");
 
         // 场景一，使用本地文件
         // InputStream inputStream = new FileInputStream(new File("/tmp/bankCard.png"));
