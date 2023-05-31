@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "minio",
+      "type": "com.xy.file.config.MinIOConfigProperties",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "oss",
+      "type": "com.xy.file.config.AliyunOSSConfigProperties",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "minio.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.read-path",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "minio.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.MinIOConfigProperties"
+    },
+    {
+      "name": "oss.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    },
+    {
+      "name": "oss.bucket",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    },
+    {
+      "name": "oss.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    },
+    {
+      "name": "oss.read-path",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    },
+    {
+      "name": "oss.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.file.config.AliyunOSSConfigProperties"
+    }
+  ],
+  "hints": []
+}

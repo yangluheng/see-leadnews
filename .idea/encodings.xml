@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/see-leadnews-basic/see-file-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-feign-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-gateway/see-leadnews-app-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-gateway/see-leadnews-app-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-gateway/see-leadnews-wemedia-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-article/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-behavior/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-schedule/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/see-leadnews-wemedia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/es-init/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/freemarker-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/kafka-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/minio-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/mongo-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/tess4j-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-test/xxljob-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-utils/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/see-leadnews-utils/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

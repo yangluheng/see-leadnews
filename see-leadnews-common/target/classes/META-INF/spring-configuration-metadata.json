@@ -1,0 +1,97 @@
+{
+  "groups": [
+    {
+      "name": "aliyun",
+      "type": "com.xy.common.aliyun.GreenImageScan",
+      "sourceType": "com.xy.common.aliyun.GreenImageScan"
+    },
+    {
+      "name": "aliyun",
+      "type": "com.xy.common.aliyun.GreenTextScan",
+      "sourceType": "com.xy.common.aliyun.GreenTextScan"
+    },
+    {
+      "name": "aliyun",
+      "type": "com.xy.common.aliyun.ImageScan",
+      "sourceType": "com.xy.common.aliyun.ImageScan"
+    },
+    {
+      "name": "aliyun",
+      "type": "com.xy.common.aliyun.TextScan",
+      "sourceType": "com.xy.common.aliyun.TextScan"
+    },
+    {
+      "name": "tess4j",
+      "type": "com.xy.common.tess4j.Tess4jClient",
+      "sourceType": "com.xy.common.tess4j.Tess4jClient"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aliyun.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.ImageScan"
+    },
+    {
+      "name": "aliyun.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.TextScan"
+    },
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.GreenImageScan"
+    },
+    {
+      "name": "aliyun.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.GreenTextScan"
+    },
+    {
+      "name": "aliyun.scene",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.ImageScan"
+    },
+    {
+      "name": "aliyun.scene",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.TextScan"
+    },
+    {
+      "name": "aliyun.scenes",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.GreenImageScan"
+    },
+    {
+      "name": "aliyun.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.GreenImageScan"
+    },
+    {
+      "name": "aliyun.secret",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.GreenTextScan"
+    },
+    {
+      "name": "aliyun.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.ImageScan"
+    },
+    {
+      "name": "aliyun.secret-key",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.aliyun.TextScan"
+    },
+    {
+      "name": "tess4j.data-path",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.tess4j.Tess4jClient"
+    },
+    {
+      "name": "tess4j.language",
+      "type": "java.lang.String",
+      "sourceType": "com.xy.common.tess4j.Tess4jClient"
+    }
+  ],
+  "hints": []
+}
